@@ -25,12 +25,12 @@ function handleClick(){
     
        <div className="h-menu flexCenter" style={{right:menu&&'-100%'}}>
 
-<a href="">Residencies</a>
-<a href="">Value</a>
-<a href="">Contact us</a>
-<a href="">Get started</a>
+<a href="/">Residencies</a>
+<a href="/">Value</a>
+<a href="/">Contact us</a>
+<a href="/">Get started</a>
 <button className='button'>
-   <a href=''>Contact</a>
+   <a href='/'>Contact</a>
 </button>
 </div>
        
